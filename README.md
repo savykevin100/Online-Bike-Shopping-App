@@ -1,16 +1,38 @@
-# Online-Bike-Shopping-App
 
-A new Flutter project.
+ #  Online-Bike-Shopping-App
+Description brève du projet
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<video width="500" height="400" controls>
+  <source src="https://youtube.com/shorts/PIR6yembPJw?si=mjiREwI9L2HxhNMN" type="video/mp4">
+</video>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design link
+https://www.figma.com/file/D8e9p9L3AeUfNnsIvRzMcy/Online-Bike-Shopping-App-(Community)?node-id=1%3A4&mode=design
+
+## Technologies Used
+
+- Flutter
+- Dart
+
+## Advanced Flutter Concepts
+
+- Clip Path 
+- Transforms
+- Animations 
+
+## Installation
+
+1. Clone this repository :
+git clone https://github.com/savykevin100/Online-Bike-Shopping-App.git
+
+
+2. Navigate to the project directory :
+cd Online-Bike-Shopping-App
+
+3. Run the application:
+flutter run
+
