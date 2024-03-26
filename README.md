@@ -4,9 +4,8 @@ Description brève du projet
 
 ## Preview
 
-<video width="500" height="400" controls>
-  <source src="https://youtube.com/shorts/PIR6yembPJw?si=mjiREwI9L2HxhNMN" type="video/mp4">
-</video>
+[![Aperçu de la Vidéo](assets/preview.png)](https://youtube.com/shorts/PIR6yembPJw?si=mjiREwI9L2HxhNMN)
+
 
 
 
